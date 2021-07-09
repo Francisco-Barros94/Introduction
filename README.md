@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 
 
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -19,6 +21,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
+
+
 <p align="center">
 <a href="webportefolio"><img src="https://img.shields.io/badge/-webportfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/franciscobarros1994/"><img src="https://img.shields.io/badge/-Francisco%20Barros%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -27,8 +31,3 @@
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
-
-<!---
-Francisco-Barros94/Francisco-Barros94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
