@@ -1,6 +1,28 @@
+### Hi there 👋, my name is Francisco
+#### I am Frontend Dev
+![I am Frontend Dev]
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Angular 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Francisco-Barros94)  
+
+![GitHub metrics](https://metrics.lecoq.io/Francisco-Barros94)  
+
+![Profile views](https://gpvc.arturio.dev/Francisco-Barros94)  
+
+
+
+
+
+
 - 👋 Hi, I’m @Francisco-Barros94
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
