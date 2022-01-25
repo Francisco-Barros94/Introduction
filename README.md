@@ -1,12 +1,13 @@
-### Hi there 👋, my name is Francisco
-#### I am Frontend Dev
+### Hi there 👋, my name is Francisco Barros
+#### I am Software Engineer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
+Angular React Next Vue Node HTML CSS jQuery Bootstrap Webpack Gulp MySQL
+
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning Angular and React 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Francisco-Barros94)  
@@ -21,9 +22,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 - 👋 Hi, I’m @Francisco-Barros94
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me francisco.barros1994@gmail.com
 
 
 
@@ -31,7 +30,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
