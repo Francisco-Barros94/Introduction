@@ -2,9 +2,8 @@
 #### I am Software Engineer
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: VUE / NEXT / ANGULAR / REACT / NODE / JS / JQUERRY / HTML / CSS / BOOSTRAP / WEBPACK / GULP / MYSQL / SQLSERVER
 
-Angular React Next Vue Node HTML CSS jQuery Bootstrap Webpack Gulp MySQL
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Angular and React 
@@ -12,11 +11,11 @@ Angular React Next Vue Node HTML CSS jQuery Bootstrap Webpack Gulp MySQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Francisco-Barros94)  
 
+
 ![GitHub metrics](https://metrics.lecoq.io/Francisco-Barros94)  
 
+
 ![Profile views](https://gpvc.arturio.dev/Francisco-Barros94)  
-
-
 
 
 
@@ -33,6 +32,7 @@ Angular React Next Vue Node HTML CSS jQuery Bootstrap Webpack Gulp MySQL
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 
 
