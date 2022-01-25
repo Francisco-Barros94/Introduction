@@ -2,10 +2,6 @@
 #### I am Software Engineer
 
 
-Skills: VUE / NEXT / ANGULAR / JQUERRY / MYSQL / MONGODB / NPM / BOOSTRAP / WEBPACK / GULP 
-
-
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -17,6 +13,7 @@ Skills: VUE / NEXT / ANGULAR / JQUERRY / MYSQL / MONGODB / NPM / BOOSTRAP / WEBP
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+ VUE / NEXT / ANGULAR / JQUERRY / MYSQL / MONGODB / NPM / BOOSTRAP / WEBPACK / GULP 
 
 
 - 🔭 I’m currently working on this page. 
