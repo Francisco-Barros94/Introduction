@@ -11,7 +11,7 @@ MYSQL / MONGODB / NPM / GIT / BOOSTRAP / WEBPACK / GULP
 - 🌱 I’m currently learning Angular and React 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Francisco-Barros94)  
+
 
 
 ![GitHub metrics](https://metrics.lecoq.io/Francisco-Barros94)  
@@ -40,6 +40,7 @@ MYSQL / MONGODB / NPM / GIT / BOOSTRAP / WEBPACK / GULP
 
 
 <p align="center">
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Francisco-Barros94)  
 <a href="webportefolio"><img src="https://img.shields.io/badge/-webportfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/franciscobarros1994/"><img src="https://img.shields.io/badge/-Francisco%20Barros%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:francisco.barros1994@gmail.com"><img src="https://img.shields.io/badge/-francisco.barros1994@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
