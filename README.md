@@ -21,11 +21,6 @@ Angular React Next Vue Node HTML CSS jQuery Bootstrap Webpack Gulp MySQL
 
 
 
-- 👋 Hi, I’m @Francisco-Barros94
-- 📫 How to reach me francisco.barros1994@gmail.com
-
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -46,7 +41,7 @@ Angular React Next Vue Node HTML CSS jQuery Bootstrap Webpack Gulp MySQL
 <a href="webportefolio"><img src="https://img.shields.io/badge/-webportfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/franciscobarros1994/"><img src="https://img.shields.io/badge/-Francisco%20Barros%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:francisco.barros1994@gmail.com"><img src="https://img.shields.io/badge/-francisco.barros1994@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/id"><img src="https://img.shields.io/badge/-@instaid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://instagram.com/ID"><img src="https://img.shields.io/badge/-@instaid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/ID"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.behance.net/ID"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
