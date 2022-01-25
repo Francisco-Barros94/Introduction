@@ -2,7 +2,10 @@
 #### I am Software Engineer
 
 
-Skills: VUE / NEXT / ANGULAR / REACT / NODE / JS / JQUERRY / HTML / CSS / BOOSTRAP / WEBPACK / GULP / MYSQL / SQLSERVER
+Skills: VUE / NEXT / ANGULAR / REACT / NODE / JS / JQUERRY / HTML / CSS 
+MYSQL / SQLSERVER / MONGODB / NPM / GIT / BOOSTRAP / WEBPACK / GULP 
+LINUX / WINDOWS / MACOS
+
 
 
 - 🔭 I’m currently working on this page. 
