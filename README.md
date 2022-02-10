@@ -25,8 +25,6 @@
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/Francisco-Barros94)  
-
 
 ![Profile views](https://gpvc.arturio.dev/Francisco-Barros94)  
 
